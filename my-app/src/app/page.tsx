@@ -1,4 +1,5 @@
 import variables from "@/style/variables.module.scss";
+import "@/style/homeScreen.scss";
 
 export default function Home() {
   return (
